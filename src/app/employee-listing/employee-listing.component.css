@@ -1,0 +1,14 @@
+.mdc-data-table__cell {
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+.mdc-data-table__header-cell {
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    outline: none;
+    text-align: center;
+}

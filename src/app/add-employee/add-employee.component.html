@@ -1,0 +1,24 @@
+<div class="container">
+    <h2>Add Employee</h2>
+  
+    <form class="form-container" (ngSubmit)="onSubmit()">
+      <mat-form-field>
+        <input matInput placeholder="Emp ID" name="emp_id" [(ngModel)]="employee.emp_id" required>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Employee Name" name="emp_name" [(ngModel)]="employee.emp_name" required>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Salary" name="salary" [(ngModel)]="employee.salary" required>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput type="date" placeholder="Date of Joining" name="date_of_joining" [(ngModel)]="employee.date_of_joining" required>
+      </mat-form-field>
+  
+      <div class="button-container">
+        <button mat-raised-button color="primary" type="submit">{{ isEdit ? 'Update' : 'Add' }}</button>
+        <button mat-raised-button color="warn" type="button" (click)="onCancel()">Cancel</button>
+      </div>
+    </form>
+  </div>
+  
