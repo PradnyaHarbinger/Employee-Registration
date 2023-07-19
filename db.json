@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "emp_id": "1",
+      "emp_name": "Harry Potter",
+      "salary": 50000,
+      "date_of_joining": "2023-01-01"
+    },
+    {
+      "emp_id": "2",
+      "emp_name": "Ron Weasley",
+      "salary": "25000",
+      "date_of_joining": "2023-12-01",
+      "id": 2
+    },
+    {
+      "emp_id": "3",
+      "emp_name": "Hermione Granger",
+      "salary": "100000",
+      "date_of_joining": "2009-02-25",
+      "id": 3
+    },
+    {
+      "emp_id": "4",
+      "emp_name": "Draco Malfoy",
+      "salary": "50000",
+      "date_of_joining": "2012-12-12",
+      "id": 4
+    },
+    {
+      "emp_id": "5",
+      "emp_name": "Sirius Black",
+      "salary": "2000000",
+      "date_of_joining": "2003-03-03",
+      "id": 5
+    },
+    {
+      "emp_id": "6",
+      "emp_name": "Remus Lupin",
+      "salary": "1000000",
+      "date_of_joining": "2005-05-05",
+      "id": 6
+    }
+  ]
+}
