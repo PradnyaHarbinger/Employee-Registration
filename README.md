@@ -1,3 +1,15 @@
+Performed operations -
+1. Table to show available employees
+![Screenshot (39)](https://github.com/PradnyaHarbinger/Employee-Registration/assets/139337303/915e65a2-0ea9-43e8-bfe7-0b83e8f13ca2)
+
+2. Insert a new employee
+![Screenshot (40)](https://github.com/PradnyaHarbinger/Employee-Registration/assets/139337303/021ff281-a43b-4609-9fde-636568542e4f)
+
+3. Updating an employee information
+![Screenshot (41)](https://github.com/PradnyaHarbinger/Employee-Registration/assets/139337303/a10f37dc-1483-4894-a825-c81bc65e711e)
+
+4. Delete employee
+
 # EmployeeRegistration
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
